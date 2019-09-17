@@ -1,0 +1,15 @@
+{
+  "slug": "ChordController",
+  "name": "Chord Controller",
+  "version": "1.0.0",
+  "license": "MIT",
+  "brand": "ym2612",
+  "author": "Trevor Wilson",
+  "authorEmail": "wilsontr@gmail.com",
+  "authorUrl": "https://github.com/wilsontr",
+  "pluginUrl": "https://github.com/wilsontr",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "modules": []
+}
