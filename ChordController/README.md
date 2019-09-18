@@ -4,6 +4,6 @@ A plugin for VCV Rack. Generates six CV outputs based on a single 1v/o input and
 
 When the "quantize" switch is on, each individual CV output is quantized to semitones.
 
-[Manual download here (Mac)](./ChordController-1.0.0-mac.zip)
+[Binary download (Mac)](/wilsontr/vcv-plugins/releases/tag/v1.0.0)
 
 ![ChordController](./ChordController.png)
