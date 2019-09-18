@@ -42,8 +42,6 @@ struct ChordController : Module {
 		configParam(QUANTIZE_PARAM, 0.f, 1.f, 0.f, "Quantize");
 	}
 
-	float pitches[6] = { 0.f, 0.f, 0.f, 0.f, 0.f, 0.f };
-
 	float quantize(float pitch) {
 		return (float)(floor(pitch / SEMITONE_STEP) * SEMITONE_STEP);
 	}
